@@ -1,36 +1,24 @@
-public class Solution {
+class Solution {
     public int romanToInt(String s) {
-        int[] values = new int[26]; // Array to store Roman numeral values
-        values['I' - 'A'] = 1;
-        values['V' - 'A'] = 5;
-        values['X' - 'A'] = 10;
-        values['L' - 'A'] = 50;
-        values['C' - 'A'] = 100;
-        values['D' - 'A'] = 500;
-        values['M' - 'A'] = 1000;
-
-        int total = 0;
-        int prevValue = 0;
-
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int currentValue = values[s.charAt(i) - 'A'];
-
-            if (currentValue < prevValue) {
-                total -= currentValue;
-            } else {
-                total += currentValue;
+        HashMap<Character, Integer> hm= new HashMap<Character, Integer>();
+        hm.put('I',1);
+        hm.put('V',5);
+        hm.put('X',10);
+        hm.put('L',50);
+        hm.put('C',100);
+        hm.put('D',500);
+        hm.put('M',1000);
+        int result=hm.get(s.charAt(s.length()-1));
+        for(int i=s.length()-2;i>=0;i--){
+            if(hm.get(s.charAt(i)) < hm.get(s.charAt(i+1))){
+                result=result-hm.get(s.charAt(i));
             }
-
-            prevValue = currentValue;
+            else{
+                 result=result+hm.get(s.charAt(i));
+            }
+            
         }
-
-        return total;
-    }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println("III -> " + solution.romanToInt("III"));       // Output: 3
-        System.out.println("LVIII -> " + solution.romanToInt("LVIII"));   // Output: 58
-        System.out.println("MCMXCIV -> " + solution.romanToInt("MCMXCIV")); // Output: 1994
+    return result;
+        
     }
 }
