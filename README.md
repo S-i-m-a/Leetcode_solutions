@@ -24,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -71,4 +73,5 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
