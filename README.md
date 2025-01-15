@@ -55,4 +55,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
