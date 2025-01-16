@@ -46,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
