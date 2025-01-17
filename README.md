@@ -14,6 +14,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 ## Linked List
 |  |
@@ -88,6 +90,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
