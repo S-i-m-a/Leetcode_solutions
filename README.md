@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -235,6 +236,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
