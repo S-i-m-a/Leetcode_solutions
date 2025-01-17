@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@
 | [0016-3sum-closest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
@@ -182,6 +184,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Graph
