@@ -81,6 +81,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -105,6 +106,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -156,6 +158,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
