@@ -104,6 +104,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -150,6 +151,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -160,6 +162,11 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
