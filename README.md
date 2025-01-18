@@ -23,6 +23,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
@@ -144,6 +145,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
