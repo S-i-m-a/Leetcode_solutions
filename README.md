@@ -57,6 +57,7 @@
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
