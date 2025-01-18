@@ -24,6 +24,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 ## Array
 |  |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
