@@ -177,6 +177,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0207-course-schedule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -256,6 +259,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
