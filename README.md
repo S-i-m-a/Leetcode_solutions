@@ -31,6 +31,7 @@
 | [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
@@ -150,6 +151,7 @@
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0120-triangle) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0100-same-tree) |
@@ -274,6 +277,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0100-same-tree) |
