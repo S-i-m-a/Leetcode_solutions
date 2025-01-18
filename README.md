@@ -15,6 +15,7 @@
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1447-jump-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1447-jump-game-iv) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -34,6 +35,7 @@
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -188,6 +191,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 ## Binary Search
 |  |
