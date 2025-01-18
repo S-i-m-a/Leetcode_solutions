@@ -81,6 +81,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
+| [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
@@ -137,6 +138,7 @@
 | [0018-4sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0146-lru-cache) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
