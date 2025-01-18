@@ -277,6 +277,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
