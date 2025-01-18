@@ -1,28 +1,29 @@
 public class Solution {
     public int jump(int[] nums) {
-        int n = nums.length;
+        if (nums.length <= 1) {
+            return 0;  // No jump needed if the array has only one element.
+        }
+
+        int jumps = 0;
+        int currentEnd = 0;
+        int farthest = 0;
         
-        // Edge case: if there is only one element, no jump is needed.
-        if (n == 1) return 0;
-        
-        int jumps = 0;          // The number of jumps made so far
-        int current_end = 0;    // The farthest index that can be reached with the current number of jumps
-        int farthest = 0;       // The farthest index that can be reached with the next jump
-        
-        for (int i = 0; i < n; i++) {
-            // Update the farthest point that can be reached from index i
+        for (int i = 0; i < nums.length; i++) {
+            // Update the farthest point we can reach
             farthest = Math.max(farthest, i + nums[i]);
-            
+
             // If we reach the end of the current jump range
-            if (i == current_end) {
-                jumps++; // We need to make another jump
-                current_end = farthest; // Update the end of the current jump range
-                
-                // If the current_end reaches or exceeds the last index, we're done
-                if (current_end >= n - 1) break;
+            if (i == currentEnd) {
+                jumps++;  // Make a jump
+                currentEnd = farthest;  // Update the range to the farthest point we can reach
+
+                // If the current end is already beyond or at the last index, return the jump count
+                if (currentEnd >= nums.length - 1) {
+                    return jumps;
+                }
             }
         }
-        
-        return jumps;
+
+        return -1;  // In case no solution is found, although this should not happen with valid input
     }
 }
