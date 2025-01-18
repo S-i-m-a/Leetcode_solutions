@@ -52,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
