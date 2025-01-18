@@ -42,6 +42,7 @@
 | [0016-3sum-closest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0041-first-missing-positive) |
@@ -82,6 +83,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
