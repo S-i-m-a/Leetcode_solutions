@@ -38,6 +38,7 @@
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1447-jump-game-iv) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
