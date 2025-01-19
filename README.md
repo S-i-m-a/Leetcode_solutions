@@ -79,6 +79,7 @@
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1714-rearrange-spaces-between-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 ## Array
