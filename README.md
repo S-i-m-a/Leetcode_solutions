@@ -35,6 +35,7 @@
 | [0050-powx-n](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
