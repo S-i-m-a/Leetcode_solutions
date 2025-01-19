@@ -28,6 +28,7 @@
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
+| [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Sliding Window
 |  |
@@ -216,6 +219,7 @@
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -418,6 +422,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bitmask
 |  |
 | ------- |
