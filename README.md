@@ -95,6 +95,7 @@
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
