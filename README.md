@@ -44,6 +44,7 @@
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -254,6 +255,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
