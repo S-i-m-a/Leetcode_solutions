@@ -9,6 +9,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0146-lru-cache) |
@@ -75,6 +76,7 @@
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0383-ransom-note](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0383-ransom-note) |
@@ -116,6 +118,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
@@ -237,6 +240,7 @@
 | [0120-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
@@ -443,6 +447,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Merge Sort
 |  |
@@ -499,4 +504,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
