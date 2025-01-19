@@ -97,6 +97,7 @@
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -202,6 +203,7 @@
 | [0032-longest-valid-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0097-interleaving-string) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -368,6 +371,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -448,4 +452,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
