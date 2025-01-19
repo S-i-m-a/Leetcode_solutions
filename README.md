@@ -37,6 +37,7 @@
 | [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
