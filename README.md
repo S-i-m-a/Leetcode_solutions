@@ -144,6 +144,7 @@
 | [0135-candy](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0174-dungeon-game) |
@@ -397,6 +398,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
