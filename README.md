@@ -139,6 +139,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0164-maximum-gap) |
@@ -326,6 +327,7 @@
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
