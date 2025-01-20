@@ -164,6 +164,7 @@
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -220,6 +221,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Divide and Conquer
