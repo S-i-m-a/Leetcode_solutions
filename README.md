@@ -605,4 +605,8 @@
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
