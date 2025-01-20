@@ -52,6 +52,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
@@ -83,6 +84,7 @@
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
@@ -300,6 +302,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
@@ -458,6 +461,7 @@
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
