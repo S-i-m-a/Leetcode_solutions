@@ -209,6 +209,7 @@
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -414,6 +417,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
