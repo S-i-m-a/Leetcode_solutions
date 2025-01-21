@@ -450,6 +450,7 @@
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1916-find-center-of-star-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
+| [2198-process-restricted-friend-requests](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2198-process-restricted-friend-requests) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Topological Sort
 |  |
@@ -612,6 +613,7 @@
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
+| [2198-process-restricted-friend-requests](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2198-process-restricted-friend-requests) |
 ## Combinatorics
 |  |
 | ------- |
