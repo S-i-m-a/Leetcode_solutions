@@ -9,6 +9,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0127-word-ladder) |
@@ -93,6 +94,7 @@
 | [0058-length-of-last-word](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0097-interleaving-string) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
