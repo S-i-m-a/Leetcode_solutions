@@ -75,6 +75,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1965-sum-of-digits-in-base-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
 ## String
@@ -260,6 +261,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
