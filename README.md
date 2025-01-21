@@ -157,6 +157,7 @@
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0260-single-number-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -542,6 +543,7 @@
 | [0136-single-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
