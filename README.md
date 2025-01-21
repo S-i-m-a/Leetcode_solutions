@@ -243,6 +243,7 @@
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -341,6 +342,7 @@
 | [0146-lru-cache](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0725-split-linked-list-in-parts) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
