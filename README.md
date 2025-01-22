@@ -142,6 +142,7 @@
 | [0056-merge-intervals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
@@ -244,6 +245,7 @@
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -268,6 +270,7 @@
 | [0016-3sum-closest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
