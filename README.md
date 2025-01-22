@@ -730,6 +730,7 @@
 | [0175-combine-two-tables](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0183-customers-who-never-order) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Queue
 |  |
 | ------- |
