@@ -631,6 +631,7 @@
 | [0260-single-number-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
