@@ -189,6 +189,7 @@
 | [0239-sliding-window-maximum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
+| [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -273,6 +274,7 @@
 | [0165-compare-version-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -425,6 +427,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
@@ -623,6 +626,7 @@
 | [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -733,6 +737,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
