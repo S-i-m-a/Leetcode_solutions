@@ -146,6 +146,7 @@
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
@@ -611,6 +612,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0136-single-number) |
@@ -638,6 +640,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
