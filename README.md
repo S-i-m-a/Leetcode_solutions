@@ -198,6 +198,7 @@
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -675,6 +676,7 @@
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 ## Design
