@@ -22,6 +22,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
@@ -119,6 +120,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
