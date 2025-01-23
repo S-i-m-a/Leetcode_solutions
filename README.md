@@ -131,6 +131,7 @@
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0481-magical-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0481-magical-string) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1403-palindrome-partitioning-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1403-palindrome-partitioning-iii) |
@@ -298,6 +299,7 @@
 | [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
