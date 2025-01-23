@@ -133,6 +133,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -326,6 +327,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
