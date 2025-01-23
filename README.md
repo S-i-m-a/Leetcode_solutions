@@ -213,6 +213,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
@@ -578,6 +579,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -592,6 +594,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -616,6 +619,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Stack
@@ -632,6 +636,7 @@
 | [0234-palindrome-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -744,6 +749,7 @@
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
