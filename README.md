@@ -295,6 +295,7 @@
 | [0202-happy-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -321,6 +322,7 @@
 | [0220-contains-duplicate-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -544,6 +546,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -744,6 +747,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
@@ -832,4 +836,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
