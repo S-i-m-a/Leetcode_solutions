@@ -132,6 +132,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Array
@@ -233,6 +234,7 @@
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -714,6 +716,7 @@
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
