@@ -225,6 +225,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -767,6 +768,7 @@
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
