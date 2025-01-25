@@ -256,6 +256,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -435,6 +436,7 @@
 | [0629-k-inverse-pairs-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
+| [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1403-palindrome-partitioning-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1403-palindrome-partitioning-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -750,6 +752,7 @@
 | [0461-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -760,6 +763,7 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 ## Backtracking
