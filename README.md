@@ -227,6 +227,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
@@ -520,6 +521,7 @@
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
@@ -607,6 +609,7 @@
 | [0174-dungeon-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
