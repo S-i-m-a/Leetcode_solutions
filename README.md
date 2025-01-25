@@ -99,6 +99,7 @@
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
+| [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -274,6 +275,7 @@
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2102-find-the-middle-index-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -442,6 +444,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
+| [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
 ## Linked List
@@ -757,6 +760,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bitmask
@@ -766,6 +770,7 @@
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 ## Backtracking
 |  |
 | ------- |
