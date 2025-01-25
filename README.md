@@ -158,6 +158,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3684-substring-matching-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3684-substring-matching-pattern) |
 ## Array
 |  |
 | ------- |
@@ -895,4 +896,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
+## String Matching
+|  |
+| ------- |
+| [3684-substring-matching-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3684-substring-matching-pattern) |
 <!---LeetCode Topics End-->
