@@ -136,6 +136,7 @@
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
@@ -824,6 +825,7 @@
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
