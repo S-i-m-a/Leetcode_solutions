@@ -130,6 +130,7 @@
 | [0168-excel-sheet-column-title](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -213,6 +214,7 @@
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -646,6 +648,7 @@
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
@@ -814,6 +817,7 @@
 | [0090-subsets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
@@ -907,6 +911,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 ## Bucket Sort
 |  |
 | ------- |
