@@ -298,6 +298,7 @@
 | [2727-number-of-senior-citizens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sliding Window
 |  |
@@ -625,6 +626,7 @@
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2329-maximum-product-after-k-increments](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
 | ------- |
@@ -645,6 +647,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Graph
 |  |
@@ -656,6 +659,7 @@
 | [1916-find-center-of-star-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2198-process-restricted-friend-requests) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -942,4 +946,8 @@
 |  |
 | ------- |
 | [3684-substring-matching-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3684-substring-matching-pattern) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
