@@ -116,6 +116,7 @@
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0097-interleaving-string) |
@@ -185,6 +186,7 @@
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
@@ -535,6 +537,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
@@ -644,6 +647,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0174-dungeon-game) |
@@ -813,6 +817,7 @@
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
