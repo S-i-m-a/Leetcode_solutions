@@ -39,6 +39,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
+| [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1447-jump-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1447-jump-game-iv) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -148,6 +149,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
+| [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
@@ -261,6 +263,7 @@
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
+| [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -929,6 +932,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
+| [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 ## Bucket Sort
 |  |
 | ------- |
