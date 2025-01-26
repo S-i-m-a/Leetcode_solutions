@@ -244,6 +244,7 @@
 | [0724-find-pivot-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -446,6 +447,7 @@
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1403-palindrome-partitioning-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1403-palindrome-partitioning-iii) |
@@ -643,6 +645,7 @@
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
