@@ -151,6 +151,7 @@
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -268,6 +269,7 @@
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
@@ -369,6 +371,7 @@
 | [0633-sum-of-square-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -540,6 +543,7 @@
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
+| [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
