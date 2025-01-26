@@ -294,6 +294,7 @@
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2551-apply-operations-to-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -458,6 +459,7 @@
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
 ## Linked List
 |  |
@@ -653,6 +655,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Graph
