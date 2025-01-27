@@ -343,6 +343,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -685,6 +686,7 @@
 | [1861-building-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1861-building-boxes) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1056,4 +1058,12 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
