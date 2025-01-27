@@ -9,6 +9,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -207,6 +208,7 @@
 | [0063-unique-paths-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
@@ -712,6 +714,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
