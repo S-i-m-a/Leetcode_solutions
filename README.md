@@ -113,6 +113,7 @@
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
@@ -587,6 +588,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Depth-First Search
 |  |
