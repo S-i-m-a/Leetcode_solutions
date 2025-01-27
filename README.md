@@ -173,6 +173,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -357,6 +358,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -507,6 +509,7 @@
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -577,6 +580,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2329-maximum-product-after-k-increments](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
