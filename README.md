@@ -331,6 +331,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -453,6 +454,7 @@
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -690,6 +692,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2102-find-the-middle-index-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
@@ -710,6 +713,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1861-building-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1861-building-boxes) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
