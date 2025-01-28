@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
+| [0697-degree-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
@@ -272,6 +273,7 @@
 | [0605-can-place-flowers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
