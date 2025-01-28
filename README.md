@@ -100,6 +100,7 @@
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0856-consecutive-numbers-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1070-convert-to-base-2](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1070-convert-to-base-2) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1522-stone-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1522-stone-game-iii) |
