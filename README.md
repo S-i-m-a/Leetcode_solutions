@@ -183,6 +183,7 @@
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -336,6 +337,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
