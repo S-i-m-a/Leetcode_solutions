@@ -120,6 +120,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
 ## String
@@ -191,6 +192,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2378-sender-with-largest-word-count) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
+| [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3684-substring-matching-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3684-substring-matching-pattern) |
@@ -1062,6 +1064,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -1071,6 +1074,7 @@
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1808-stone-game-vii) |
+| [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
