@@ -1,33 +1,41 @@
 import java.util.*;
 
-class Solution {
+public class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // Step 1: Count the frequency of each number
+        // Map to count the frequency of each element
         Map<Integer, Integer> frequencyMap = new HashMap<>();
         for (int num : nums) {
             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
         }
 
-        // Step 2: Use a min-heap to keep the top k frequent elements
-        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>(
-            (a, b) -> a.getValue() - b.getValue() // Compare by frequency
+        // Min-Heap to keep the top K elements
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>(
+            (a, b) -> frequencyMap.get(a) - frequencyMap.get(b)
         );
 
         // Add elements to the heap
-        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
-            minHeap.offer(entry);
+        for (int key : frequencyMap.keySet()) {
+            minHeap.add(key);
             if (minHeap.size() > k) {
                 minHeap.poll(); // Remove the least frequent element
             }
         }
 
-        // Step 3: Extract the top k elements from the heap
+        // Prepare the result
         int[] result = new int[k];
-        int index = 0;
-        while (!minHeap.isEmpty()) {
-            result[index++] = minHeap.poll().getKey();
+        for (int i = 0; i < k; i++) {
+            result[i] = minHeap.poll();
         }
 
         return result;
+    }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+
+        // Example usage
+        int[] nums = {1, 1, 1, 2, 2, 3};
+        int k = 2;
+        System.out.println("Top K Frequent Elements: " + Arrays.toString(solution.topKFrequent(nums, k)));
     }
 }
