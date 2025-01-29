@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
@@ -1060,6 +1061,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
