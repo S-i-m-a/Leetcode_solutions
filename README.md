@@ -222,6 +222,7 @@
 | [0027-remove-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0045-jump-game-ii) |
@@ -723,6 +724,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
