@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
