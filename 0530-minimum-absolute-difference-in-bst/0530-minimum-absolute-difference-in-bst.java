@@ -1,48 +1,31 @@
 public class Solution {
-    private int minDiff = Integer.MAX_VALUE;
     private Integer prev = null;
+    private int minDiff = Integer.MAX_VALUE;
 
     public int getMinimumDifference(TreeNode root) {
         inOrderTraversal(root);
         return minDiff;
     }
 
-    private void inOrderTraversal(TreeNode node) {
-        if (node == null) {
-            return;
-        }
+    private void inOrderTraversal(TreeNode root) {
+        if (root == null) return;
 
-        // Left subtree
-        inOrderTraversal(node.left);
+        // Traverse the left subtree
+        inOrderTraversal(root.left);
 
-        // Current node
+        // Check the minimum difference with the previous node
         if (prev != null) {
-            minDiff = Math.min(minDiff, Math.abs(node.val - prev));
+            minDiff = Math.min(minDiff, root.val - prev);
         }
-        prev = node.val;
+        prev = root.val;
 
-        // Right subtree
-        inOrderTraversal(node.right);
-    }
-
-    public static void main(String[] args) {
-        TreeNode root = new TreeNode(4);
-        root.left = new TreeNode(2);
-        root.right = new TreeNode(6);
-        root.left.left = new TreeNode(1);
-        root.left.right = new TreeNode(3);
-
-        Solution solution = new Solution();
-        System.out.println("Minimum absolute difference: " + solution.getMinimumDifference(root)); // Output: 1
+        // Traverse the right subtree
+        inOrderTraversal(root.right);
     }
 }
 
-// TreeNode class definition
 class TreeNode {
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) {
-        val = x;
-    }
+    TreeNode left, right;
+    TreeNode(int x) { val = x; }
 }
