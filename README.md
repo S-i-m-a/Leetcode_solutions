@@ -238,6 +238,7 @@
 | [0047-permutations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
@@ -792,6 +793,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0079-word-search) |
@@ -1010,6 +1012,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0289-game-of-life) |
