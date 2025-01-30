@@ -1,54 +1,55 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
-public class Solution {
+class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
         List<Integer> result = new ArrayList<>();
-        if (s == null || s.length() == 0 || words == null || words.length == 0) {
-            return result;
-        }
-
         int wordLength = words[0].length();
         int wordCount = words.length;
-        int windowLength = wordLength * wordCount;
+        int totalLength = wordLength * wordCount;
+        
+        if (s.length() < totalLength) return result;
 
-        // Step 1: Create a frequency map for words
-        Map<String, Integer> wordFreq = new HashMap<>();
+        // Create a frequency map for words
+        HashMap<String, Integer> wordMap = new HashMap<>();
         for (String word : words) {
-            wordFreq.put(word, wordFreq.getOrDefault(word, 0) + 1);
+            wordMap.put(word, wordMap.getOrDefault(word, 0) + 1);
         }
 
-        // Step 2: Traverse the string using sliding window
-        for (int i = 0; i < wordLength; i++) { // Start checking at different offsets
-            int left = i, right = i, count = 0;
-            Map<String, Integer> currentFreq = new HashMap<>();
+        // Iterate over the string
+        for (int i = 0; i < wordLength; i++) {
+            int left = i, right = i;
+            int count = 0;
+            HashMap<String, Integer> windowMap = new HashMap<>();
 
             while (right + wordLength <= s.length()) {
-                // Step 3: Get a word from the sliding window
                 String word = s.substring(right, right + wordLength);
                 right += wordLength;
-
-                if (wordFreq.containsKey(word)) {
-                    currentFreq.put(word, currentFreq.getOrDefault(word, 0) + 1);
+                
+                if (wordMap.containsKey(word)) {
+                    // Add word to window map and increase count
+                    windowMap.put(word, windowMap.getOrDefault(word, 0) + 1);
                     count++;
 
-                    // Step 4: Remove extra occurrences of a word
-                    while (currentFreq.get(word) > wordFreq.get(word)) {
+                    // If word frequency exceeds target frequency, shrink window
+                    while (windowMap.get(word) > wordMap.get(word)) {
                         String leftWord = s.substring(left, left + wordLength);
-                        currentFreq.put(leftWord, currentFreq.get(leftWord) - 1);
-                        count--;
                         left += wordLength;
+                        windowMap.put(leftWord, windowMap.get(leftWord) - 1);
+                        count--;
                     }
 
-                    // Step 5: Check if all words are matched
+                    // If count equals word count, we found a valid substring
                     if (count == wordCount) {
                         result.add(left);
+                        // Move the left pointer to look for new substring
+                        String leftWord = s.substring(left, left + wordLength);
+                        windowMap.put(leftWord, windowMap.get(leftWord) - 1);
+                        left += wordLength;
+                        count--;
                     }
                 } else {
-                    // If the word is not in words, reset the window
-                    currentFreq.clear();
+                    // Reset the window if current word is not valid
+                    windowMap.clear();
                     count = 0;
                     left = right;
                 }
@@ -56,12 +57,5 @@ public class Solution {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        String s = "barfoothefoobarman";
-        String[] words = {"foo", "bar"};
-        System.out.println(solution.findSubstring(s, words)); // Output: [0, 9]
     }
 }
