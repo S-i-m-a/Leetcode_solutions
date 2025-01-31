@@ -244,6 +244,7 @@
 | [0054-spiral-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
