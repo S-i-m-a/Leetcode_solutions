@@ -1,38 +1,35 @@
 import java.util.HashMap;
 
-public class Solution {
+class Solution {
     public boolean isIsomorphic(String s, String t) {
         if (s.length() != t.length()) {
             return false;
         }
-
-        // Maps to track character mappings
-        HashMap<Character, Character> sToT = new HashMap<>();
-        HashMap<Character, Character> tToS = new HashMap<>();
-
+        
+        HashMap<Character, Character> mapST = new HashMap<>();
+        HashMap<Character, Character> mapTS = new HashMap<>();
+        
         for (int i = 0; i < s.length(); i++) {
-            char charS = s.charAt(i);
-            char charT = t.charAt(i);
-
-            // Check mapping from s to t
-            if (sToT.containsKey(charS)) {
-                if (sToT.get(charS) != charT) {
+            char c1 = s.charAt(i);
+            char c2 = t.charAt(i);
+            
+            if (mapST.containsKey(c1)) {
+                if (mapST.get(c1) != c2) {
                     return false;
                 }
             } else {
-                sToT.put(charS, charT);
+                mapST.put(c1, c2);
             }
-
-            // Check mapping from t to s
-            if (tToS.containsKey(charT)) {
-                if (tToS.get(charT) != charS) {
+            
+            if (mapTS.containsKey(c2)) {
+                if (mapTS.get(c2) != c1) {
                     return false;
                 }
             } else {
-                tToS.put(charT, charS);
+                mapTS.put(c2, c1);
             }
         }
-
+        
         return true;
     }
 }
