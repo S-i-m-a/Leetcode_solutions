@@ -303,6 +303,7 @@
 | [0289-game-of-life](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -585,6 +586,7 @@
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
@@ -742,6 +744,7 @@
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
