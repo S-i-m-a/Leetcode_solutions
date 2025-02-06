@@ -23,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@
 | [0070-climbing-stairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
@@ -282,6 +284,7 @@
 | [0136-single-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -1163,6 +1166,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 ## Database
 |  |
