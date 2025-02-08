@@ -341,6 +341,7 @@
 | [0735-asteroid-collision](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
@@ -548,6 +549,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
@@ -861,6 +863,7 @@
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -919,6 +922,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
+| [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
