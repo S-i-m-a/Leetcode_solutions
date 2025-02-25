@@ -45,6 +45,6 @@ public class Solution {
         int[] nums = {1, 0, -1, 0, -2, 2};
         int target = 0;
         System.out.println(solution.fourSum(nums, target)); 
-        // Output: [[-2, -1, 1, 2], [-2, 0, 0, 2], [-1, 0, 0, 1]]
+       
     }
 }
