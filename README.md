@@ -98,6 +98,7 @@
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
@@ -1129,6 +1130,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 ## Simulation
 |  |
@@ -1137,6 +1139,7 @@
 | [0054-spiral-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
