@@ -438,6 +438,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -1156,6 +1157,7 @@
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 | [2388-replace-elements-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
