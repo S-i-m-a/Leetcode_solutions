@@ -351,6 +351,7 @@
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -1048,6 +1049,7 @@
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1220,6 +1222,7 @@
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
