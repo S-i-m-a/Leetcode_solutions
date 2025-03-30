@@ -68,6 +68,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
 ## Math
 |  |
@@ -444,6 +445,7 @@
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
@@ -564,6 +566,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Divide and Conquer
 |  |
