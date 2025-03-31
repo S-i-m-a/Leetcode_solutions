@@ -390,6 +390,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -558,6 +559,7 @@
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -931,6 +933,7 @@
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -945,6 +948,7 @@
 | [0133-clone-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1916-find-center-of-star-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -957,6 +961,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -1211,6 +1216,7 @@
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
+| [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
