@@ -106,6 +106,7 @@
 | [0258-add-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0282-expression-add-operators](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
@@ -205,6 +206,7 @@
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0383-ransom-note) |
@@ -1134,6 +1136,7 @@
 | [0093-restore-ip-addresses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
