@@ -214,6 +214,7 @@
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0481-magical-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0481-magical-string) |
+| [0551-student-attendance-record-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
