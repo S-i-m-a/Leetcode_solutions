@@ -54,6 +54,7 @@
 | [0817-design-hashmap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0817-design-hashmap) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
@@ -836,6 +837,7 @@
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
@@ -865,6 +867,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1447-jump-game-iv) |
@@ -1035,6 +1038,7 @@
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
 | [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1081,6 +1085,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Stack
