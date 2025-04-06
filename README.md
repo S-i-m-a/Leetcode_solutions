@@ -43,6 +43,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -232,6 +233,7 @@
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0481-magical-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0551-student-attendance-record-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
@@ -388,6 +390,7 @@
 | [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -560,6 +563,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
@@ -599,6 +603,7 @@
 | [0368-largest-divisible-subset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
