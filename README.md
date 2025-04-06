@@ -242,6 +242,7 @@
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1197-parsing-a-boolean-expression](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -783,6 +784,7 @@
 | [0326-power-of-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -1135,6 +1137,7 @@
 | [0735-asteroid-collision](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
