@@ -241,6 +241,7 @@
 | [0639-decode-ways-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
@@ -720,6 +721,7 @@
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0664-strange-printer) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
