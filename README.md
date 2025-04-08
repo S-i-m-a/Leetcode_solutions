@@ -398,6 +398,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0546-remove-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0605-can-place-flowers) |
@@ -718,6 +719,7 @@
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0546-remove-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
@@ -1228,6 +1230,7 @@
 | [0070-climbing-stairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0546-remove-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0949-cat-and-mouse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
