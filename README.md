@@ -478,6 +478,7 @@
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -757,6 +758,7 @@
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
@@ -1197,6 +1199,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bitmask
@@ -1208,6 +1211,7 @@
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Backtracking
 |  |
 | ------- |
@@ -1235,6 +1239,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Memoization
 |  |
