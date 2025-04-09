@@ -160,6 +160,7 @@
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -466,6 +467,7 @@
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1899-count-items-matching-a-rule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
@@ -749,6 +751,7 @@
 | [1808-stone-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1808-stone-game-vii) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -1191,6 +1194,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -1202,6 +1206,7 @@
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 ## Backtracking
 |  |
@@ -1228,6 +1233,7 @@
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Memoization
@@ -1261,6 +1267,7 @@
 | [0204-count-primes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
+| [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 ## Simulation
 |  |
