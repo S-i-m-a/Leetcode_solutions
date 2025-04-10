@@ -171,6 +171,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -494,6 +495,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2285-design-bitset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2285-design-bitset) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
@@ -1285,6 +1287,7 @@
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 | [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
