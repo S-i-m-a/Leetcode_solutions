@@ -176,6 +176,7 @@
 | [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -285,6 +286,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2727-number-of-senior-citizens](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -763,6 +765,7 @@
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
 ## Linked List
 |  |
