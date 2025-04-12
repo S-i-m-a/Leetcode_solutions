@@ -88,6 +88,7 @@
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
@@ -184,6 +185,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
@@ -1287,6 +1289,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
@@ -1375,6 +1378,7 @@
 | [0062-unique-paths](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
