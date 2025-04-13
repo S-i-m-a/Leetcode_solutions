@@ -131,6 +131,7 @@
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -683,6 +684,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0372-super-pow) |
 | [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
