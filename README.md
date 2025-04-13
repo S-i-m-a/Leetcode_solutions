@@ -168,6 +168,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -829,6 +830,7 @@
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
