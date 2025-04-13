@@ -246,6 +246,7 @@
 | [0306-additive-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -399,6 +400,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
@@ -899,6 +901,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -932,6 +935,7 @@
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1067,6 +1071,7 @@
 | [0133-clone-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0949-cat-and-mouse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
@@ -1368,6 +1373,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0821-bricks-falling-when-hit](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0821-bricks-falling-when-hit) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
@@ -1491,6 +1497,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Indexed Tree
 |  |
