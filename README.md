@@ -34,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +126,7 @@
 | [0258-add-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0326-power-of-three) |
@@ -386,6 +388,7 @@
 | [0239-sliding-window-maximum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0289-game-of-life) |
@@ -630,6 +633,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
@@ -988,6 +992,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1217,6 +1222,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0461-hamming-distance) |
