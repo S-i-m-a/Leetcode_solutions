@@ -503,6 +503,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2285-design-bitset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2285-design-bitset) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -692,6 +693,7 @@
 | [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -1003,6 +1005,7 @@
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -1290,6 +1293,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -1466,6 +1470,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0456-132-pattern) |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
@@ -1505,11 +1510,13 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
+| [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 ## Hash Function
 |  |
