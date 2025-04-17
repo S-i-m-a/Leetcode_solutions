@@ -128,6 +128,7 @@
 | [0263-ugly-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0326-power-of-three) |
@@ -244,6 +245,7 @@
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0306-additive-number) |
@@ -842,6 +844,7 @@
 | [0233-number-of-digit-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
