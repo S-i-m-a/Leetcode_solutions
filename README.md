@@ -510,6 +510,7 @@
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2249-count-the-hidden-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -987,6 +988,7 @@
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2102-find-the-middle-index-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2249-count-the-hidden-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2571-find-the-pivot-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2571-find-the-pivot-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
