@@ -1151,6 +1151,7 @@
 | [0112-path-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
@@ -1176,6 +1177,7 @@
 | [0099-recover-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1199,6 +1201,7 @@
 | [0112-path-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
@@ -1225,6 +1228,7 @@
 | [0143-reorder-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -1389,6 +1393,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -1572,4 +1577,8 @@
 | ------- |
 | [0816-design-hashset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0817-design-hashmap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
