@@ -528,6 +528,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2285-design-bitset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2285-design-bitset) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -826,6 +827,7 @@
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -1297,6 +1299,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -1312,6 +1315,7 @@
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Backtracking
 |  |
