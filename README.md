@@ -1227,6 +1227,7 @@
 | [0155-min-stack](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
@@ -1390,6 +1391,7 @@
 | [0155-min-stack](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0816-design-hashset) |
@@ -1493,6 +1495,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
