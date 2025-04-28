@@ -478,6 +478,7 @@
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1447-jump-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1447-jump-game-iv) |
+| [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -798,6 +799,7 @@
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1403-palindrome-partitioning-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1403-palindrome-partitioning-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
@@ -899,6 +901,7 @@
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -1061,6 +1064,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [1955-seat-reservation-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1955-seat-reservation-manager) |
