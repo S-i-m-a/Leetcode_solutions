@@ -1,61 +1,37 @@
-import java.util.Stack;
-
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
-            return 0;
-        }
-
-        int m = matrix.length;
-        int n = matrix[0].length;
-        
-        // Array to store the height of the histogram
-        int[] height = new int[n];
+        if (matrix.length == 0) return 0;
         int maxArea = 0;
-        
-        // Iterate through each row
-        for (int i = 0; i < m; i++) {
-            // Update the histogram heights for the current row
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == '1') {
-                    height[j]++; // Increase the height of the column
+        int cols = matrix[0].length;
+        int[] heights = new int[cols];
+
+        for (char[] row : matrix) {
+            for (int i = 0; i < cols; i++) {
+                // Build histogram
+                if (row[i] == '1') {
+                    heights[i]++;
                 } else {
-                    height[j] = 0; // Reset the height if it's a 0
+                    heights[i] = 0;
                 }
             }
-
-            // Calculate the maximal rectangle area for the current histogram (height array)
-            maxArea = Math.max(maxArea, largestRectangleInHistogram(height));
+            maxArea = Math.max(maxArea, largestRectangleArea(heights));
         }
-        
         return maxArea;
     }
-    
-    // Helper function to calculate the largest rectangle area in a histogram
-    private int largestRectangleInHistogram(int[] height) {
+
+    private int largestRectangleArea(int[] heights) {
         Stack<Integer> stack = new Stack<>();
-        int maxArea = 0;
-        int i = 0;
-        
-        while (i < height.length) {
-            // Push the index of the height to the stack if it's increasing
-            if (stack.isEmpty() || height[stack.peek()] <= height[i]) {
-                stack.push(i++);
-            } else {
-                // Calculate the area with the height at the top of the stack
-                int h = height[stack.pop()];
+        int max = 0;
+        int[] h = Arrays.copyOf(heights, heights.length + 1); // add 0 height to flush the stack
+
+        for (int i = 0; i < h.length; i++) {
+            while (!stack.isEmpty() && h[i] < h[stack.peek()]) {
+                int height = h[stack.pop()];
                 int width = stack.isEmpty() ? i : i - stack.peek() - 1;
-                maxArea = Math.max(maxArea, h * width);
+                max = Math.max(max, height * width);
             }
+            stack.push(i);
         }
-        
-        // Calculate the area for remaining bars in the stack
-        while (!stack.isEmpty()) {
-            int h = height[stack.pop()];
-            int width = stack.isEmpty() ? i : i - stack.peek() - 1;
-            maxArea = Math.max(maxArea, h * width);
-        }
-        
-        return maxArea;
+        return max;
     }
 }
