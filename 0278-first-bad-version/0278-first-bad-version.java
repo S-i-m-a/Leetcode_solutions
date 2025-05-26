@@ -1,0 +1,17 @@
+public class Solution extends VersionControl {
+    public int firstBadVersion(int n) {
+        int left = 1, right = n;
+        
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            
+            if (isBadVersion(mid)) {
+                right = mid; // Look left including mid
+            } else {
+                left = mid + 1; // Look right excluding mid
+            }
+        }
+        
+        return left; // or right, both are the same here
+    }
+}
