@@ -1,45 +1,49 @@
 import java.util.*;
 
 public class Solution {
-    Map<String, Map<String, Double>> graph = new HashMap<>();
-
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
-        // Build the graph
-        for (int i = 0; i < equations.size(); i++) {
-            String a = equations.get(i).get(0);
-            String b = equations.get(i).get(1);
-            double value = values[i];
+        // Graph: Node -> Map of adjacent nodes and weights
+        Map<String, Map<String, Double>> graph = new HashMap<>();
 
-            graph.computeIfAbsent(a, k -> new HashMap<>()).put(b, value);
-            graph.computeIfAbsent(b, k -> new HashMap<>()).put(a, 1.0 / value);
+        // Step 1: Build the graph
+        for (int i = 0; i < equations.size(); i++) {
+            String u = equations.get(i).get(0);
+            String v = equations.get(i).get(1);
+            double val = values[i];
+
+            graph.putIfAbsent(u, new HashMap<>());
+            graph.putIfAbsent(v, new HashMap<>());
+
+            graph.get(u).put(v, val);
+            graph.get(v).put(u, 1.0 / val);
         }
 
+        // Step 2: Answer queries using DFS
         double[] results = new double[queries.size()];
-
         for (int i = 0; i < queries.size(); i++) {
-            String start = queries.get(i).get(0);
-            String end = queries.get(i).get(1);
+            String src = queries.get(i).get(0);
+            String dst = queries.get(i).get(1);
 
-            if (!graph.containsKey(start) || !graph.containsKey(end)) {
+            if (!graph.containsKey(src) || !graph.containsKey(dst)) {
                 results[i] = -1.0;
-            } else if (start.equals(end)) {
+            } else if (src.equals(dst)) {
                 results[i] = 1.0;
             } else {
                 Set<String> visited = new HashSet<>();
-                results[i] = dfs(start, end, 1.0, visited);
+                results[i] = dfs(graph, src, dst, 1.0, visited);
             }
         }
 
         return results;
     }
 
-    private double dfs(String current, String target, double product, Set<String> visited) {
-        if (current.equals(target)) return product;
-        visited.add(current);
+    private double dfs(Map<String, Map<String, Double>> graph, String curr, String target, double acc, Set<String> visited) {
+        if (curr.equals(target)) return acc;
+        visited.add(curr);
 
-        for (Map.Entry<String, Double> neighbor : graph.get(current).entrySet()) {
+        for (Map.Entry<String, Double> neighbor : graph.get(curr).entrySet()) {
             if (!visited.contains(neighbor.getKey())) {
-                double result = dfs(neighbor.getKey(), target, product * neighbor.getValue(), visited);
+                double result = dfs(graph, neighbor.getKey(), target, acc * neighbor.getValue(), visited);
                 if (result != -1.0) return result;
             }
         }
