@@ -50,6 +50,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0753-open-the-lock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0753-open-the-lock) |
@@ -274,6 +275,7 @@
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0753-open-the-lock) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
@@ -982,6 +984,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0676-implement-magic-dictionary) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
@@ -1450,6 +1453,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0676-implement-magic-dictionary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0676-implement-magic-dictionary) |
 | [0816-design-hashset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0817-design-hashmap) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
@@ -1522,6 +1526,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
