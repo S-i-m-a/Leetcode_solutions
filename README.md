@@ -75,6 +75,7 @@
 | [1619-path-crossing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1619-path-crossing) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -302,6 +303,7 @@
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2173-number-of-valid-words-in-a-sentence) |
@@ -520,6 +522,7 @@
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2102-find-the-middle-index-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
@@ -1531,6 +1534,7 @@
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1433-encrypt-and-decrypt-strings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1638,6 +1642,7 @@
 | ------- |
 | [0816-design-hashset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0817-design-hashmap) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Iterator
 |  |
 | ------- |
