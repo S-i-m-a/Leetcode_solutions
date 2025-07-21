@@ -286,6 +286,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1197-parsing-a-boolean-expression](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
