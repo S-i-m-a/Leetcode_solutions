@@ -300,6 +300,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
@@ -946,6 +947,7 @@
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1861-building-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1861-building-boxes) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -1299,6 +1301,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
