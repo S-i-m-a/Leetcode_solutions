@@ -104,6 +104,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -597,6 +598,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Sliding Window
 |  |
@@ -963,6 +965,7 @@
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
