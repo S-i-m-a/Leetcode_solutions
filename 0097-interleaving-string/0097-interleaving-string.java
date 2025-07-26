@@ -1,30 +1,30 @@
-public class Solution {
+class Solution {
     public boolean isInterleave(String s1, String s2, String s3) {
-        if (s1.length() + s2.length() != s3.length()) {
-            return false;
-        }
+        int m = s1.length(), n = s2.length();
 
-        // Create a DP table
-        boolean[][] dp = new boolean[s1.length() + 1][s2.length() + 1];
+        if (m + n != s3.length()) return false;
 
-        // Initialize the DP table
+        boolean[][] dp = new boolean[m + 1][n + 1];
         dp[0][0] = true;
 
-        // Fill the DP table
-        for (int i = 0; i <= s1.length(); i++) {
-            for (int j = 0; j <= s2.length(); j++) {
-                // Check if we can take a character from s1
-                if (i > 0 && s1.charAt(i - 1) == s3.charAt(i + j - 1)) {
-                    dp[i][j] = dp[i][j] || dp[i - 1][j];
-                }
-                // Check if we can take a character from s2
-                if (j > 0 && s2.charAt(j - 1) == s3.charAt(i + j - 1)) {
-                    dp[i][j] = dp[i][j] || dp[i][j - 1];
-                }
+        // Fill first row
+        for (int i = 1; i <= m; i++) {
+            dp[i][0] = dp[i - 1][0] && s1.charAt(i - 1) == s3.charAt(i - 1);
+        }
+
+        // Fill first column
+        for (int j = 1; j <= n; j++) {
+            dp[0][j] = dp[0][j - 1] && s2.charAt(j - 1) == s3.charAt(j - 1);
+        }
+
+        // Fill rest of the table
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                dp[i][j] = (dp[i - 1][j] && s1.charAt(i - 1) == s3.charAt(i + j - 1)) ||
+                           (dp[i][j - 1] && s2.charAt(j - 1) == s3.charAt(i + j - 1));
             }
         }
 
-        // The answer is whether we can interleave the entire s1 and s2 into s3
-        return dp[s1.length()][s2.length()];
+        return dp[m][n];
     }
 }
