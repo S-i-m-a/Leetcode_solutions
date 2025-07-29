@@ -574,6 +574,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -632,6 +633,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1123,6 +1125,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 ## Heap (Priority Queue)
@@ -1366,6 +1369,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
