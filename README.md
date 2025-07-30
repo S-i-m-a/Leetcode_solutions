@@ -581,6 +581,7 @@
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1380,6 +1381,7 @@
 | [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -1651,6 +1653,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1086-divisor-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
