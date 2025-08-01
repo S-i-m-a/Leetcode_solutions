@@ -1,20 +1,24 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
-        
-        // Base case: the first row is always [1]
+        List<List<Integer>> triangle = new ArrayList<>();
+
         for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>(Collections.nCopies(i + 1, 1));
-            
-            // Fill in the inner elements of the row
-            for (int j = 1; j < i; j++) {
-                row.set(j, result.get(i - 1).get(j - 1) + result.get(i - 1).get(j));
+            List<Integer> row = new ArrayList<>();
+
+            for (int j = 0; j <= i; j++) {
+                // First and last elements are always 1
+                if (j == 0 || j == i) {
+                    row.add(1);
+                } else {
+                    // Sum of two numbers directly above
+                    int val = triangle.get(i - 1).get(j - 1) + triangle.get(i - 1).get(j);
+                    row.add(val);
+                }
             }
-            
-            // Add the row to the result
-            result.add(row);
+
+            triangle.add(row);
         }
-        
-        return result;
+
+        return triangle;
     }
 }
