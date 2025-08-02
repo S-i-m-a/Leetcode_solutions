@@ -105,6 +105,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -615,6 +616,7 @@
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
+| [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1214,6 +1216,7 @@
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Graph
@@ -1508,6 +1511,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
+| [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
@@ -1533,6 +1537,7 @@
 | [2285-design-bitset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2285-design-bitset) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2434-design-a-number-container-system) |
+| [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
