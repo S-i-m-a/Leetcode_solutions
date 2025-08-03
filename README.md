@@ -196,6 +196,7 @@
 | [2050-count-good-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2298-count-integers-with-even-digit-sum) |
