@@ -59,6 +59,7 @@
 | [0817-design-hashmap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0817-design-hashmap) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1010-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1010-powerful-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -491,6 +492,7 @@
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
@@ -643,6 +645,7 @@
 | [0219-contains-duplicate-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
