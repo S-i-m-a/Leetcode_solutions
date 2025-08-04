@@ -635,6 +635,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Sliding Window
 |  |
@@ -1162,6 +1163,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
+| [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1525,6 +1527,7 @@
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -1676,6 +1679,7 @@
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
+| [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1722,6 +1726,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Function
 |  |
 | ------- |
