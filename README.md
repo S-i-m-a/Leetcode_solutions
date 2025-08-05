@@ -543,6 +543,7 @@
 | [1808-stone-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1808-stone-game-vii) |
 | [1813-maximum-erasure-value](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1813-maximum-erasure-value) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
