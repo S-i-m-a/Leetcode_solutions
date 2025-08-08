@@ -167,6 +167,7 @@
 | [0728-self-dividing-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0856-consecutive-numbers-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0949-cat-and-mouse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [1010-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1010-powerful-integers) |
@@ -879,6 +880,7 @@
 | [0664-strange-printer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0664-strange-printer) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [0826-soup-servings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1757,4 +1759,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0278-first-bad-version) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
