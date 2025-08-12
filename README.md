@@ -925,6 +925,7 @@
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
