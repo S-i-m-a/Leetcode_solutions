@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        // Check if n is a power of two and has 1s only in odd positions
+        // Positive, power of two, and 1-bits only in odd positions (mask 0x55555555)
         return n > 0 && (n & (n - 1)) == 0 && (n & 0x55555555) != 0;
     }
 }
