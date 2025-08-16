@@ -182,6 +182,7 @@
 | [1349-check-if-it-is-a-straight-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1013,6 +1014,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1448-maximum-69-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
