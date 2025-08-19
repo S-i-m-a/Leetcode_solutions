@@ -213,6 +213,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2571-find-the-pivot-integer) |
 | [2605-count-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2605-count-anagrams) |
@@ -602,6 +603,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
