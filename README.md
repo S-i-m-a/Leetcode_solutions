@@ -528,6 +528,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -906,6 +907,7 @@
 | [1086-divisor-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1086-divisor-game) |
 | [1121-partition-array-for-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1403-palindrome-partitioning-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1403-palindrome-partitioning-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
@@ -1252,6 +1254,7 @@
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
