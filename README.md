@@ -470,6 +470,7 @@
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
@@ -1251,6 +1252,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
@@ -1560,6 +1562,7 @@
 | [0289-game-of-life](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
