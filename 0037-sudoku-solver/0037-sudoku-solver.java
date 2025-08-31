@@ -1,34 +1,44 @@
 class Solution {
     public void solveSudoku(char[][] board) {
-        solve(board);
+        solve(board, 0);
     }
 
-    private boolean solve(char[][] board) {
-        for (int row = 0; row < 9; row++) {
-            for (int col = 0; col < 9; col++) {
-                if (board[row][col] == '.') {
-                    for (char num = '1'; num <= '9'; num++) {
-                        if (isValid(board, row, col, num)) {
-                            board[row][col] = num;
-                            if (solve(board)) {
-                                return true;
-                            }
-                            board[row][col] = '.';
-                        }
-                    }
-                    return false;
+    private boolean solve(char[][] board, int pos) {
+        if (pos == 81) {
+            // All 81 cells processed → solution found
+            return true;
+        }
+
+        int row = pos / 9;
+        int col = pos % 9;
+
+        if (board[row][col] != '.') {
+            return solve(board, pos + 1); // Skip filled cells
+        }
+
+        for (char c = '1'; c <= '9'; c++) {
+            if (isValid(board, row, col, c)) {
+                board[row][col] = c;
+                if (solve(board, pos + 1)) {
+                    return true; // Early return on success
                 }
+                board[row][col] = '.'; // Backtrack
             }
         }
-        return true;
+
+        return false; // No valid digit leads to solution here
     }
 
-    private boolean isValid(char[][] board, int row, int col, char num) {
+    private boolean isValid(char[][] board, int row, int col, char c) {
         for (int i = 0; i < 9; i++) {
-            if (board[row][i] == num || board[i][col] == num ||
-                board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == num) {
-                return false;
-            }
+            // Check column
+            if (board[i][col] == c) return false;
+            // Check row
+            if (board[row][i] == c) return false;
+            // Check 3×3 subgrid
+            int boxRow = 3 * (row / 3) + i / 3;
+            int boxCol = 3 * (col / 3) + i % 3;
+            if (board[boxRow][boxCol] == c) return false;
         }
         return true;
     }
