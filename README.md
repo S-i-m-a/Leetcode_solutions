@@ -234,6 +234,7 @@
 | [3567-convert-date-to-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
 | [3699-count-special-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3699-count-special-subsequences) |
+| [3830-find-closest-person](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
