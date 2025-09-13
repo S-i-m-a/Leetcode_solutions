@@ -115,6 +115,7 @@
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3699-count-special-subsequences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [3567-convert-date-to-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3684-substring-matching-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3684-substring-matching-pattern) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -864,6 +866,7 @@
 | [2605-count-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2605-count-anagrams) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
