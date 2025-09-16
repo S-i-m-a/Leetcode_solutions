@@ -213,6 +213,7 @@
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -610,6 +611,7 @@
 | [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
@@ -1442,6 +1444,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
@@ -1583,6 +1586,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Simulation
 |  |
