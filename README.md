@@ -118,6 +118,7 @@
 | [3699-count-special-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3699-count-special-subsequences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -681,6 +682,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Sliding Window
 |  |
@@ -1234,6 +1236,7 @@
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1646,6 +1649,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1753,6 +1757,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1778,6 +1783,7 @@
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
