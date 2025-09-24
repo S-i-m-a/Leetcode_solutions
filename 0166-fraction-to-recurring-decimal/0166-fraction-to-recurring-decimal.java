@@ -1,56 +1,74 @@
 import java.util.HashMap;
+import java.util.Map;
 
 public class Solution {
     public String fractionToDecimal(int numerator, int denominator) {
-        // Edge case: if numerator is 0, the result is simply "0"
-        if (numerator == 0) return "0";
-
-        // Result string to store the final fraction representation
+        if (numerator == 0) {
+            return "0";
+        }
+        // Use StringBuilder for efficient appends / inserts
         StringBuilder result = new StringBuilder();
-
-        // If the result is negative, append "-" at the beginning
+        
+        // Determine the sign
+        // If numerator and denominator have opposite signs, result is negative
         if ((numerator < 0) ^ (denominator < 0)) {
             result.append("-");
         }
-
-        // Convert both numerator and denominator to long to avoid overflow
+        
+        // Convert to positive long to avoid overflow (especially for Integer.MIN_VALUE)
         long num = Math.abs((long) numerator);
-        long denom = Math.abs((long) denominator);
-
-        // Add the integer part to the result
-        result.append(num / denom);
-        num %= denom; // Update numerator to remainder after division
-
-        // If there's no remainder, return the result
-        if (num == 0) {
+        long den = Math.abs((long) denominator);
+        
+        // Append integer part (quotient)
+        long integerPart = num / den;
+        result.append(integerPart);
+        
+        // Remainder after integer division
+        long remainder = num % den;
+        if (remainder == 0) {
+            // No fractional part
             return result.toString();
         }
-
-        // Otherwise, handle the fractional part
+        
+        // There is a fractional part
         result.append(".");
-
-        // HashMap to store remainders and their corresponding index in the result
-        HashMap<Long, Integer> map = new HashMap<>();
-
-        // Loop until we either find a repeating cycle or the remainder is 0
-        while (num != 0) {
-            // If we've seen this remainder before, it means we're in a cycle
-            if (map.containsKey(num)) {
-                int index = map.get(num);
-                result.insert(index, "(");
+        
+        // Map to store remainder → index in result (where that remainder first appeared)
+        Map<Long, Integer> remainderIndexMap = new HashMap<>();
+        
+        // Loop until remainder becomes 0 or we detect a repeating cycle
+        while (remainder != 0) {
+            // If this remainder has appeared before, it's a repeating cycle
+            if (remainderIndexMap.containsKey(remainder)) {
+                int idx = remainderIndexMap.get(remainder);
+                result.insert(idx, "(");
                 result.append(")");
-                return result.toString();
+                break;
             }
-
-            // Store the index of this remainder
-            map.put(num, result.length());
-
-            // Perform long division step
-            num *= 10;
-            result.append(num / denom);
-            num %= denom;
+            
+            // Store the current remainder with its corresponding position in the result
+            remainderIndexMap.put(remainder, result.length());
+            
+            // Multiply remainder by 10, get the next digit
+            remainder *= 10;
+            long digit = remainder / den;
+            result.append(digit);
+            
+            // Update remainder
+            remainder = remainder % den;
         }
-
+        
         return result.toString();
+    }
+    
+    // For quick testing
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.fractionToDecimal(1, 2));   // "0.5"
+        System.out.println(sol.fractionToDecimal(2, 1));   // "2"
+        System.out.println(sol.fractionToDecimal(2, 3));   // "0.(6)"
+        System.out.println(sol.fractionToDecimal(4, 333)); // "0.(012)"
+        System.out.println(sol.fractionToDecimal(-50, 8)); // "-6.25"
+        System.out.println(sol.fractionToDecimal(1, 6));   // "0.1(6)"
     }
 }
