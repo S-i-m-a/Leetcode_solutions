@@ -182,6 +182,7 @@
 | [0949-cat-and-mouse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [1010-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1057-numbers-with-repeated-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1070-convert-to-base-2) |
@@ -528,6 +529,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -806,6 +808,7 @@
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
@@ -1061,6 +1064,7 @@
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
