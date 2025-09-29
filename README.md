@@ -538,6 +538,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -946,6 +947,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1057-numbers-with-repeated-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1086-divisor-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
