@@ -235,6 +235,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -1630,6 +1631,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
+| [3336-water-bottles-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
