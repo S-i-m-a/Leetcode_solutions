@@ -76,6 +76,7 @@
 | [1500-count-largest-group](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1500-count-largest-group) |
 | [1512-design-underground-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1512-design-underground-system) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-path-crossing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1619-path-crossing) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -569,6 +570,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1656-count-good-triplets) |
@@ -1078,6 +1080,7 @@
 | [1448-maximum-69-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
+| [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -1242,6 +1245,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1861-building-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1861-building-boxes) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -1272,6 +1276,7 @@
 | [0794-swim-in-rising-water](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
+| [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [1955-seat-reservation-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1955-seat-reservation-manager) |
