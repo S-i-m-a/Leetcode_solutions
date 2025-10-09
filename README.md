@@ -694,6 +694,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -1216,6 +1217,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -1660,6 +1662,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
 | ------- |
