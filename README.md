@@ -686,6 +686,7 @@
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1278,6 +1279,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
