@@ -103,6 +103,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2605-count-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2605-count-anagrams) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -231,6 +232,7 @@
 | [2605-count-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2605-count-anagrams) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2630-alternating-digit-sum) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
@@ -659,6 +661,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1116,6 +1119,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
