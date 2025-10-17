@@ -376,6 +376,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -1010,6 +1011,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1554,6 +1556,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1570,6 +1573,7 @@
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
