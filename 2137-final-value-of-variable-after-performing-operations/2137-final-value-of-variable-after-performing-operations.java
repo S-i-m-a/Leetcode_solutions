@@ -1,15 +1,16 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        int x = 0;  // Initial value of x
+        int X = 0;  // initial value
         
-        for (String operation : operations) {
-            if (operation.equals("++X") || operation.equals("X++")) {
-                x++;
-            } else if (operation.equals("--X") || operation.equals("X--")) {
-                x--;
+        for (String op : operations) {
+            // Check the middle character (at index 1) to decide if it is a '+' or '-'
+            if (op.charAt(1) == '+') {
+                X += 1;
+            } else {
+                X -= 1;
             }
         }
         
-        return x;  // Return the final value of x
+        return X;
     }
 }
