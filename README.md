@@ -86,6 +86,7 @@
 | [2023-design-movie-rental-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -217,6 +218,7 @@
 | [2050-count-good-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -913,6 +915,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2378-sender-with-largest-word-count](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2378-sender-with-largest-word-count) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1624,6 +1627,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Memoization
 |  |
@@ -1653,6 +1657,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2844-sum-of-squares-of-special-elements) |
