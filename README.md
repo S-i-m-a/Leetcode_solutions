@@ -86,6 +86,7 @@
 | [2023-design-movie-rental-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2169-simple-bank-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -621,6 +622,7 @@
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -1697,6 +1699,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1642-water-bottles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
@@ -1733,6 +1736,7 @@
 | [1512-design-underground-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1512-design-underground-system) |
 | [1955-seat-reservation-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1955-seat-reservation-manager) |
 | [2023-design-movie-rental-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2285-design-bitset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2285-design-bitset) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2434-design-a-number-container-system) |
