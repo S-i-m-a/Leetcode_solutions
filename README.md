@@ -222,6 +222,7 @@
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2238-a-number-after-a-double-reversal) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -365,6 +366,7 @@
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2285-design-bitset](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2285-design-bitset) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
@@ -629,6 +631,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -1383,6 +1386,7 @@
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
