@@ -119,6 +119,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3678-design-task-manager) |
@@ -252,6 +253,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
 | [3699-count-special-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3699-count-special-subsequences) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -698,6 +700,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
