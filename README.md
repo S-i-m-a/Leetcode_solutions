@@ -117,6 +117,7 @@
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -697,6 +698,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -1072,6 +1074,7 @@
 | [1337-design-skiplist](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1337-design-skiplist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
