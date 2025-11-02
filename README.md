@@ -651,6 +651,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2378-sender-with-largest-word-count](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2378-sender-with-largest-word-count) |
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
@@ -1397,6 +1398,7 @@
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
@@ -1718,6 +1720,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 | [2388-replace-elements-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
