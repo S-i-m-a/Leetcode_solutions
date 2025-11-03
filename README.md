@@ -350,6 +350,7 @@
 | [1512-design-underground-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1619-path-crossing) |
 | [1660-thousand-separator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1660-thousand-separator) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -596,6 +597,7 @@
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -1017,6 +1019,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1808-stone-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1808-stone-game-vii) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
@@ -1134,6 +1137,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
