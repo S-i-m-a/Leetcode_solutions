@@ -1030,6 +1030,7 @@
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1808-stone-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1808-stone-game-vii) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
@@ -1600,6 +1601,7 @@
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
@@ -1681,6 +1683,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0949-cat-and-mouse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Merge Sort
 |  |
