@@ -130,6 +130,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -738,6 +739,7 @@
 | [3797-design-spreadsheet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -1173,6 +1175,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1576,6 +1579,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1846,6 +1850,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
