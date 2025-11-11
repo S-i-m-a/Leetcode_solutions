@@ -324,6 +324,7 @@
 | [0402-remove-k-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0474-ones-and-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0551-student-attendance-record-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0551-student-attendance-record-i) |
@@ -513,6 +514,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0495-teemo-attacking](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -997,6 +999,7 @@
 | [0392-is-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0629-k-inverse-pairs-array) |
