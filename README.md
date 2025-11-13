@@ -399,6 +399,7 @@
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
@@ -956,6 +957,7 @@
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -1177,6 +1179,7 @@
 | [2689-rearranging-fruits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
