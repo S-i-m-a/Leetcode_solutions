@@ -399,6 +399,7 @@
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -777,6 +778,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1726,6 +1728,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3699-count-special-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3699-count-special-subsequences) |
