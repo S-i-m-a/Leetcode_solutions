@@ -209,6 +209,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1617-stone-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -356,6 +357,7 @@
 | [1433-encrypt-and-decrypt-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1512-design-underground-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1619-path-crossing) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1660-thousand-separator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1714-rearrange-spaces-between-words) |
