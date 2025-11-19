@@ -1,17 +1,11 @@
-public class Solution {
+class Solution {
     public int findFinalValue(int[] nums, int original) {
-        Set<Integer> numsSet = new HashSet<>();
-        
-        // Add all elements of nums to a HashSet for constant-time lookups
-        for (int num : nums) {
-            numsSet.add(num);
-        }
-        
-        // Keep doubling the 'original' value as long as it is present in the set
-        while (numsSet.contains(original)) {
+        java.util.HashSet<Integer> set = new java.util.HashSet<>();
+        for (int x : nums) set.add(x);
+
+        while (set.contains(original)) {
             original *= 2;
         }
-        
         return original;
     }
 }
