@@ -253,6 +253,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2998-count-symmetric-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -715,6 +716,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
