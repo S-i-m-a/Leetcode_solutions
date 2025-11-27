@@ -118,6 +118,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -728,6 +729,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1330,6 +1332,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
