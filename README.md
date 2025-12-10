@@ -275,6 +275,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-stone-removal-game) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -750,6 +751,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3583-count-special-triplets) |
@@ -1908,6 +1910,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2605-count-anagrams) |
 | [3548-find-the-count-of-good-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
@@ -2021,6 +2024,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
