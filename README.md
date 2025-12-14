@@ -239,6 +239,7 @@
 | [2050-count-good-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -396,6 +397,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -1107,6 +1109,7 @@
 | [2105-the-number-of-good-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2291-maximum-and-sum-of-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2348-count-number-of-texts](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
