@@ -943,6 +943,7 @@
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
+| [2092-find-all-people-with-secret](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
@@ -1300,6 +1301,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1341,6 +1343,7 @@
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3863-power-grid-maintenance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
@@ -1536,6 +1539,7 @@
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1916-find-center-of-star-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2092-find-all-people-with-secret](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2198-process-restricted-friend-requests) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -1919,6 +1923,7 @@
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2125-gcd-sort-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2198-process-restricted-friend-requests](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2198-process-restricted-friend-requests) |
