@@ -363,6 +363,7 @@
 | [0868-push-dominoes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0878-shifting-letters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0878-shifting-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
@@ -585,6 +586,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
