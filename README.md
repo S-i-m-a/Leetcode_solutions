@@ -365,6 +365,7 @@
 | [0878-shifting-letters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0878-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1026-string-without-aaa-or-bbb](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1026-string-without-aaa-or-bbb) |
@@ -590,6 +591,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -1084,6 +1086,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0949-cat-and-mouse](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1057-numbers-with-repeated-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
