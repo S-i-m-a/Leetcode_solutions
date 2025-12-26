@@ -415,6 +415,7 @@
 | [2348-count-number-of-texts](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2348-count-number-of-texts) |
 | [2378-sender-with-largest-word-count](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2378-sender-with-largest-word-count) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2543-most-popular-video-creator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2543-most-popular-video-creator) |
 | [2594-count-pairs-of-similar-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2605-count-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2605-count-anagrams) |
@@ -1384,6 +1385,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2571-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
