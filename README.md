@@ -102,6 +102,7 @@
 | [2348-count-number-of-texts](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2348-count-number-of-texts) |
 | [2378-sender-with-largest-word-count](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -713,6 +714,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -965,6 +967,7 @@
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2543-most-popular-video-creator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2543-most-popular-video-creator) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -1480,6 +1483,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2329-maximum-product-after-k-increments](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2402-meeting-rooms-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2543-most-popular-video-creator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2543-most-popular-video-creator) |
@@ -1875,6 +1879,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2386-min-max-game) |
 | [2388-replace-elements-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
