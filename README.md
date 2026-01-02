@@ -64,6 +64,7 @@
 | [0900-reordered-power-of-2](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1010-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1010-powerful-integers) |
@@ -599,6 +600,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
