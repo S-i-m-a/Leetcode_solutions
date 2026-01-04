@@ -216,6 +216,7 @@
 | [1086-divisor-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1390-four-divisors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1448-maximum-69-number) |
@@ -631,6 +632,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1390-four-divisors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
