@@ -1328,6 +1328,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1633,6 +1634,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1609-even-odd-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1609-even-odd-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
@@ -1688,6 +1690,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1609-even-odd-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1609-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
