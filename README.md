@@ -641,6 +641,7 @@
 | [1428-jump-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1447-jump-game-iv](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1447-jump-game-iv) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1522-stone-game-iii) |
@@ -1119,6 +1120,7 @@
 | [1403-palindrome-partitioning-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1403-palindrome-partitioning-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1489-pizza-with-3n-slices](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1522-stone-game-iii) |
