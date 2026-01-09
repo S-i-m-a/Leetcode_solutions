@@ -61,6 +61,7 @@
 | [0817-design-hashmap](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0817-design-hashmap) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0840-magic-squares-in-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -1326,6 +1327,7 @@
 | [0695-max-area-of-island](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1372,6 +1374,7 @@
 | [0733-flood-fill](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1633,6 +1636,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
 | [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1689,6 +1693,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
