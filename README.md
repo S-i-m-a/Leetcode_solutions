@@ -365,6 +365,7 @@
 | [0664-strange-printer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
@@ -1100,6 +1101,7 @@
 | [0639-decode-ways-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0664-strange-printer) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
 | [0826-soup-servings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0867-new-21-game) |
