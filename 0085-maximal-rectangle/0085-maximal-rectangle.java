@@ -1,37 +1,43 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if (matrix.length == 0) return 0;
+        if (matrix == null || matrix.length == 0) return 0;
+        
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int[] heights = new int[n]; // heights of histogram
         int maxArea = 0;
-        int cols = matrix[0].length;
-        int[] heights = new int[cols];
-
-        for (char[] row : matrix) {
-            for (int i = 0; i < cols; i++) {
-                // Build histogram
-                if (row[i] == '1') {
-                    heights[i]++;
+        
+        for (int i = 0; i < m; i++) {
+            // Update histogram heights
+            for (int j = 0; j < n; j++) {
+                if (matrix[i][j] == '1') {
+                    heights[j] += 1;
                 } else {
-                    heights[i] = 0;
+                    heights[j] = 0;
                 }
             }
+            // Find max area in this histogram
             maxArea = Math.max(maxArea, largestRectangleArea(heights));
         }
+        
         return maxArea;
     }
-
+    
+    // Largest Rectangle in Histogram (monotonic stack)
     private int largestRectangleArea(int[] heights) {
         Stack<Integer> stack = new Stack<>();
-        int max = 0;
-        int[] h = Arrays.copyOf(heights, heights.length + 1); // add 0 height to flush the stack
-
-        for (int i = 0; i < h.length; i++) {
-            while (!stack.isEmpty() && h[i] < h[stack.peek()]) {
-                int height = h[stack.pop()];
+        int maxArea = 0;
+        
+        for (int i = 0; i <= heights.length; i++) {
+            int h = (i == heights.length ? 0 : heights[i]);
+            while (!stack.isEmpty() && h < heights[stack.peek()]) {
+                int height = heights[stack.pop()];
                 int width = stack.isEmpty() ? i : i - stack.peek() - 1;
-                max = Math.max(max, height * width);
+                maxArea = Math.max(maxArea, height * width);
             }
             stack.push(i);
         }
-        return max;
+        
+        return maxArea;
     }
 }
