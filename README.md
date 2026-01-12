@@ -216,6 +216,7 @@
 | [1070-convert-to-base-2](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1266-minimum-time-visiting-all-points](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1390-four-divisors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -627,6 +628,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -2055,6 +2057,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1266-minimum-time-visiting-all-points](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
