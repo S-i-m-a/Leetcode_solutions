@@ -779,6 +779,7 @@
 | [3433-count-mentions-per-user](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3433-count-mentions-per-user) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1483,6 +1484,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3435-block-placement-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
