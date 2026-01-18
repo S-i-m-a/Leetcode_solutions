@@ -676,6 +676,7 @@
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [1895-largest-magic-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1899-count-items-matching-a-rule](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
@@ -1418,6 +1419,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1895-largest-magic-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1575,6 +1577,7 @@
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
+| [1895-largest-magic-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2035-count-sub-islands) |
