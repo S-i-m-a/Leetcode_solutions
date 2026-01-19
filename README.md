@@ -631,6 +631,7 @@
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -1413,6 +1414,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0878-shifting-letters) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1473,6 +1475,7 @@
 | [0794-swim-in-rising-water](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1294-range-frequency-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1321-get-equal-substrings-within-budget](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1572,6 +1575,7 @@
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
