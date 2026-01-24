@@ -677,6 +677,7 @@
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1875-tree-of-coprimes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1875-tree-of-coprimes) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1895-largest-magic-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -924,6 +925,7 @@
 | [0979-di-string-match](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -981,6 +983,7 @@
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-closest-subsequence-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2018-minimum-space-wasted-from-packaging) |
@@ -1286,6 +1289,7 @@
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1861-building-boxes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1861-building-boxes) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-maximum-matrix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
