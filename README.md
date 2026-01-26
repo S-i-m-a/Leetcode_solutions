@@ -626,6 +626,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1200-minimum-absolute-difference](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -977,6 +978,7 @@
 | [1009-pancake-sorting](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1200-minimum-absolute-difference](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1257-rank-transform-of-a-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1257-rank-transform-of-a-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
