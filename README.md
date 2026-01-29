@@ -821,6 +821,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -1194,6 +1195,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
@@ -1613,6 +1615,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
