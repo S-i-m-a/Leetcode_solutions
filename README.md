@@ -437,6 +437,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -775,6 +776,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1187,6 +1189,7 @@
 | [2669-find-the-substring-with-maximum-cost](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -2084,6 +2087,7 @@
 | [1433-encrypt-and-decrypt-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2755-extra-characters-in-a-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2194,6 +2198,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Indexed Tree
@@ -2238,5 +2243,6 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
