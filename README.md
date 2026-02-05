@@ -795,6 +795,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3379-transformed-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3433-count-mentions-per-user) |
@@ -1985,6 +1986,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2834-relocate-marbles) |
 | [3336-water-bottles-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3433-count-mentions-per-user) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/3516-design-neighbor-sum-service) |
