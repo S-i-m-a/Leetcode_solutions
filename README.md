@@ -396,6 +396,7 @@
 | [1512-design-underground-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1619-path-crossing) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1660-thousand-separator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1660-thousand-separator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1714-rearrange-spaces-between-words) |
@@ -1174,6 +1175,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1790,6 +1792,7 @@
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1628-count-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1902-car-fleet-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1902-car-fleet-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
