@@ -1154,6 +1154,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0741-cherry-pickup) |
+| [0799-champagne-tower](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0868-push-dominoes) |
