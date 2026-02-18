@@ -1838,6 +1838,7 @@
 | [0401-binary-watch](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
