@@ -377,6 +377,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [0839-short-encoding-of-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0839-short-encoding-of-words) |
 | [0868-push-dominoes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0872-split-array-into-fibonacci-sequence) |
@@ -994,6 +995,7 @@
 | [0692-top-k-frequent-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0883-car-fleet](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
@@ -1071,6 +1073,7 @@
 | [0324-wiggle-sort-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0372-super-pow) |
+| [0761-special-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [0772-construct-quad-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
