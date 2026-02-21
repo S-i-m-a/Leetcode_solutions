@@ -206,6 +206,7 @@
 | [0679-24-game](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0738-monotone-increasing-digits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
@@ -1846,6 +1847,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
