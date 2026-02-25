@@ -655,6 +655,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1013,6 +1014,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1308-smallest-string-with-swaps](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -1095,6 +1097,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1858,6 +1861,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1022-unique-paths-iii) |
 | [1220-smallest-sufficient-team](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1220-smallest-sufficient-team) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
