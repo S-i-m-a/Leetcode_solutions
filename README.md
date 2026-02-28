@@ -238,6 +238,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-stone-game-v](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1788-stone-game-vi](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -1870,6 +1871,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
@@ -2019,6 +2021,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
