@@ -409,6 +409,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1660-thousand-separator](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1660-thousand-separator) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1336,6 +1337,7 @@
 | [1503-reducing-dishes](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1503-reducing-dishes) |
 | [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
