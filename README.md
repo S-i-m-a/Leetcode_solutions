@@ -678,6 +678,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1653,6 +1654,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1559-cherry-pickup-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [1895-largest-magic-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1895-largest-magic-square) |
