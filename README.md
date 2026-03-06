@@ -416,6 +416,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
