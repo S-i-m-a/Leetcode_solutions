@@ -92,6 +92,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -425,6 +426,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2001-jump-game-vii](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -712,6 +714,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1952,6 +1955,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
+| [1980-find-unique-binary-string](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/S-i-m-a/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
